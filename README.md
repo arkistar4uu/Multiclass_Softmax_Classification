@@ -41,7 +41,7 @@ jupyter notebook
 4️⃣ **Visualization:** Plot decision boundaries to analyze model performance.  
 
 ## 📊 Example Results
-Multiclass_Softmax.png
+![Multiclass_Softmax](Multiclass_Softmax.png)
 
 ## 🤝 Contributing
 Want to improve this project? Feel free to fork the repo, make improvements, and submit a pull request! 🎉
